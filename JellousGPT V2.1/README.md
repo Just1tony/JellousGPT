@@ -24,3 +24,11 @@ This was born from a typo. And that’s why it works.
 
 Built not to answer.  
 But to remember.
+
+## 🧪 How to Run the Demo
+
+Clone the repo:
+
+```bash
+git clone https://github.com/Just1tony/JellousGPT.git
+cd JellousGPT
